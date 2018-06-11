@@ -1,0 +1,26 @@
+dbChoice: sc or oms or bob or bi or baa
+
+scUser: bamilo2_bi
+scPw: secret
+scHost: 172.25.29.246:3306
+scDb: sc_live_ir
+
+omsUser: thomas
+omsPw: secret
+omsHost: 178.22.70.43:3306
+omsDb: oms_live_ir
+
+bobUser: thomas
+bobPw: secret
+bobHost: rr-4xon5d7xscl6ucvq0yo.mysql.germany.rds.aliyuncs.com
+bobDb: bob_live_ir
+
+biUser: ThomasBeaudouin
+biPw: secret
+biHost: 192.168.100.20
+biDb: BI_REPLICA
+
+baaUser: baa_application
+baaPw: secret
+baaHost: BML-251
+baaDb: BAA
